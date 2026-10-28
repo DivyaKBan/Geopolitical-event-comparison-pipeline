@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+feedparser
+requests
+sentence-transformers
+scikit-learn
+numpy
+groq
+pydantic
+python-dotenv
+pandas
