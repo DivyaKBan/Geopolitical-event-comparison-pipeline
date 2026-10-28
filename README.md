@@ -5,7 +5,7 @@ Finds news reports from different outlets about the **same geopolitical event** 
 **Live demo:** [add Streamlit link]
 **Stack:** Python, RSS (feedparser), SQLite, sentence-transformers, scikit-learn, Groq LLM, Pydantic, Streamlit, GitHub Actions
 
-<img width="1834" height="715" alt="Screenshot 2026-10-27 193141" src="https://github.com/user-attachments/assets/bf3c650d-ff7d-4cb1-a885-c5e898cbe440" />
+<img width="1887" height="889" alt="Screenshot 2026-10-28 141208" src="https://github.com/user-attachments/assets/241a15f6-b16e-4564-b417-c49483bb3779" />
 
 > **This is a reading aid, not analysis or advice.** It works from headlines and short snippets only. Always read the original articles.
 
